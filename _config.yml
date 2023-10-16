@@ -104,3 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/JacksonYang11/JacksonYang11.github.io.git
+  branch: master
