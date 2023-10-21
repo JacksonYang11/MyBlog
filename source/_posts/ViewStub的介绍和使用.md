@@ -5,6 +5,7 @@ tags:
     - programming
     - coding
     - software development 
+cover: /images/bg/calligraphy.jpg
 ---
 
 
