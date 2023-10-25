@@ -4,7 +4,7 @@ date: 2023-10-16 16:31:26
 tags:
     - programming
     - coding
-    - software development 
+    - android
 cover: /images/bg/calligraphy.jpg
 ---
 
@@ -40,5 +40,4 @@ View inflated = stub.inflate();
 （注意：inflate() 方法只能被调用一次，如果再次调用会报异常信息 ViewStub must have a non-null ViewGroup viewParent。
 ViewStub的setVisibility()可以调用多次）
 
-# 参考链接：<https://www.jianshu.com/p/175096cd89ac>
 
